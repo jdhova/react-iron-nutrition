@@ -1,0 +1,13 @@
+.ams {
+    display: flex;
+    justify-content:space-around;
+   }
+
+
+.new {
+    display:inline;
+   }
+
+body h1 {
+    align-items: center;
+}
