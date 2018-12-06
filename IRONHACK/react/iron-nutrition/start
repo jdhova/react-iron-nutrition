@@ -1,0 +1,1186 @@
+Script started on Tue Dec  4 12:48:31 2018
+[?1034hbash-3.2$ s[Kls
+README.md		package.json		start
+node_modules		public
+package-lock.json	src
+bash-3.2$ start
+bash: start: command not found
+bash-3.2$ npm start
+
+> iron-nutrition@0.1.0 start /Users/juud/Downloads/IRONHACK/react/iron-nutrition
+> react-scripts start
+
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+npm install bul               ^C
+bash-3.2$ ls
+README.md		package.json		start
+node_modules		public
+package-lock.json	src
+bash-3.2$ np [Km n[Kinstall bulma --save
+[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 4b681aa3b1e9f7f[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadIdealTree:loadAllDepsIntoIdealTree: [7msill[0m [35minstall[0m loa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadIdealTree:loadAllDepsIntoIdealTree: [7msill[0m [35minstall[0m loa[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:@babel/highlight: [7msill[0m [35mresolveWithNewModule[0m bulm[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠧ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m bulma@0.7.2 ch[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠹ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠹ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠧ postinstall: [7msill[0m [35minstall[0m executeActions[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ extract:bulma: [34;40mverb[0m [35mlock[0m using /Users/juud/.npm/_locks/s[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ refresh-package-json:bulma: [32;40mtiming[0m [35maction:finalize[0m Compl[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ refresh-package-json:bulma: [32;40mtiming[0m [35maction:finalize[0m Compl[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠧ postinstall: [32minfo[0m [35mlifecycle[0m bulma@0.7.2~postinstall: bul[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ postinstall: [32minfo[0m [35mlifecycle[0m bulma@0.7.2~postinstall: bul[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ postinstall: [32minfo[0m [35mlifecycle[0m bulma@0.7.2~postinstall: bul[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ postinstall: [32minfo[0m [35mlifecycle[0m bulma@0.7.2~postinstall: bul[0m[K[K[?25h+ bulma@0.7.2
+added 1 package from 1 contributor and audited 35640 packages in 36.565s
+found [92m0[0m vulnerabilities
+
+bash-3.2$ npm start
+
+> iron-nutrition@0.1.0 start /Users/juud/Downloads/IRONHACK/react/iron-nutrition
+> react-scripts start
+
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+ç ls
+^C
+bash-3.2$ ls
+README.md		package.json		start
+node_modules		public
+package-lock.json	src
+bash-3.2$ cd[K[Kls src/
+App.css			index.css		serviceWorker.js
+App.js			index.js
+App.test.js		logo.svg
+bash-3.2$ cls[K[K[Kls
+README.md		package.json		start
+node_modules		public
+package-lock.json	src
+bash-3.2$ cd[K[Kcd src
+bash-3.2$ 
+bash-3.2$ ls[Ks
+App.css			index.css		serviceWorker.js
+App.js			index.js
+App.test.js		logo.svg
+bash-3.2$ mkdir components
+bash-3.2$ npm startnpm [K[K[K[K[K[K[K[K[Ktart[K[K[K[Kstart
+
+> iron-nutrition@0.1.0 start /Users/juud/Downloads/IRONHACK/react/iron-nutrition
+> react-scripts start
+
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 16:[22m  Parsing error: Unexpected token, expected "{"
+
+[0m [90m 14 | [39m[0m
+[0m [90m 15 | [39m  render() [0m
+[0m[31m[1m>[22m[39m[90m 16 | [39m    [36mreturn[39m ([0m
+[0m [90m    | [39m    [31m[1m^[22m[39m[0m
+[0m [90m 17 | [39m      [0m
+[0m [90m 18 | [39m    )[0m
+[0m [90m 19 | [39m  }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 22:[22m  Parsing error: Unexpected token
+
+[0m [90m 20 | [39m[0m
+[0m [90m 21 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 22 | [39m[36mexport[39m [36mdefault[39m [33mApp[39m[33m;[39m[0m
+[0m [90m    | [39m       [31m[1m^[22m[39m[0m
+[0m [90m 23 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 6:[22m    Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+  [1mLine 40:[22m  'FoodBox' is not defined                                               [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+npm start
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 16:[22m  Parsing error: Unexpected token, expected "{"
+
+[0m [90m 14 | [39m[0m
+[0m [90m 15 | [39m  render() [0m
+[0m[31m[1m>[22m[39m[90m 16 | [39m    [36mreturn[39m ([0m
+[0m [90m    | [39m    [31m[1m^[22m[39m[0m
+[0m [90m 17 | [39m      [0m
+[0m [90m 18 | [39m    )[0m
+[0m [90m 19 | [39m  }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 16:[22m  Parsing error: Unexpected token, expected "{"
+
+[0m [90m 14 | [39m[0m
+[0m [90m 15 | [39m  render() [0m
+[0m[31m[1m>[22m[39m[90m 16 | [39m    [36mreturn[39m ([0m
+[0m [90m    | [39m    [31m[1m^[22m[39m[0m
+[0m [90m 17 | [39m      divClassName[33m=[39m[32m'box'[39m[0m
+[0m [90m 18 | [39m      [0m
+[0m [90m 19 | [39m    )[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 17:[22m  Parsing error: Unexpected token
+
+[0m [90m 15 | [39m   [0m
+[0m [90m 16 | [39m    [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 17 | [39m      [33m<[39m[33mdiv[39m className[33m=[39m[32m"box"[39m[33m>[39m[0m
+[0m [90m    | [39m      [31m[1m^[22m[39m[0m
+[0m [90m 18 | [39m        [33m<[39m[33mh1[39m[33m>[39m [33mHello[39m [33mIronhackers[39m[33m![39m [33m<[39m[33m/[39m[33mh1[39m[33m>[39m[0m
+[0m [90m 19 | [39m        [33m<[39m[33mh1[39m[33m>[39m[33mHello[39m [33mReact[39m[33m<[39m[33m/[39m[33mh1[39m[33m>[39m[0m
+[0m [90m 20 | [39m      [33m<[39m[33m/[39m[33mdiv[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: You attempted to import [36m/foods.json[39m which falls outside of the project [36msrc/[39m directory. Relative imports outside of [36msrc/[39m are not supported.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+Module not found: Can't resolve './foods.json' in '/Users/juud/Downloads/IRONHACK/react/iron-nutrition/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/foods.json[27m
+Module parse failed: Unexpected end of JSON input while parsing near ''
+You may need an appropriate loader to handle this file type.
+SyntaxError: Unexpected end of JSON input while parsing near ''
+    at JSON.parse (<anonymous>)
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+[7m./src/App.js[27m
+  [1mLine 5:[22m  'FoodBox' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 17:[22m  Parsing error: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>?
+
+[0m [90m 15 | [39m      [0m
+[0m [90m 16 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 17 | [39m        [33m<[39m[33mh2[39m[33m>[39mworkng[33m<[39m[33m/[39m[33mh2[39m[33m>[39m[0m
+[0m [90m    | [39m        [31m[1m^[22m[39m[0m
+[0m [90m 18 | [39m    [0m
+[0m [90m 19 | [39m[0m
+[0m [90m 20 | [39m      [0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 17:[22m  Parsing error: Unexpected token, expected ","
+
+[0m [90m 15 | [39m      [0m
+[0m [90m 16 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 17 | [39m        {food}[0m
+[0m [90m    | [39m        [31m[1m^[22m[39m[0m
+[0m [90m 18 | [39m  [0m
+[0m [90m 19 | [39m    [0m
+[0m [90m 20 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 18:[22m  Parsing error: Unexpected token, expected ","
+
+[0m [90m 16 | [39m      [0m
+[0m [90m 17 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 18 | [39m        {allFood}[0m
+[0m [90m    | [39m        [31m[1m^[22m[39m[0m
+[0m [90m 19 | [39m  [0m
+[0m [90m 20 | [39m    [0m
+[0m [90m 21 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 18:[22m  Parsing error: Unexpected token, expected ","
+
+[0m [90m 16 | [39m      [0m
+[0m [90m 17 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 18 | [39m        {[33mFoodBox[39m}[0m
+[0m [90m    | [39m        [31m[1m^[22m[39m[0m
+[0m [90m 19 | [39m  [0m
+[0m [90m 20 | [39m    [0m
+[0m [90m 21 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 18:[22m  Parsing error: Unexpected token, expected ","
+
+[0m [90m 16 | [39m      [0m
+[0m [90m 17 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 18 | [39m       {allFood}[0m
+[0m [90m    | [39m       [31m[1m^[22m[39m[0m
+[0m [90m 19 | [39m  [0m
+[0m [90m 20 | [39m    [0m
+[0m [90m 21 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 18:[22m  Parsing error: Unexpected token, expected ","
+
+[0m [90m 16 | [39m      [0m
+[0m [90m 17 | [39m        [33m<[39m[33mFoodBox[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 18 | [39m       {allFood}[0m
+[0m [90m    | [39m       [31m[1m^[22m[39m[0m
+[0m [90m 19 | [39m  [0m
+[0m [90m 20 | [39m    [0m
+[0m [90m 21 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 1:[22m  'React' is defined but never used    [33m[4mno-unused-vars[24m[39m
+  [1mLine 5:[22m  'FoodBox' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 29:[22m  Parsing error: Expected corresponding JSX closing tag for <br>
+
+[0m [90m 27 | [39m            number of calories[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[0m
+[0m [90m 28 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"number of calories"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 29 | [39m            image[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[33m<[39m[33m/[39m[33minput[39m[33m>[39m[0m
+[0m [90m    | [39m                      [31m[1m^[22m[39m[0m
+[0m [90m 30 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"image"[39m[33m>[39m[0m
+[0m [90m 31 | [39m          [33m<[39m[33m/[39m[33mform[39m[33m>[39m[0m
+[0m [90m 32 | [39m        { [36mthis[39m[33m.[39mstate[33m.[39mfoods[33m.[39mmap(food[33m=>[39m{[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 29:[22m  Parsing error: Expected corresponding JSX closing tag for <br>
+
+[0m [90m 27 | [39m            number of calories[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[0m
+[0m [90m 28 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"number of calories"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 29 | [39m            image[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[33m<[39m[33m/[39m[33minput[39m[33m>[39m[0m
+[0m [90m    | [39m                      [31m[1m^[22m[39m[0m
+[0m [90m 30 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"image"[39m[33m>[39m[0m
+[0m [90m 31 | [39m          [33m<[39m[33m/[39m[33mform[39m[33m>[39m[0m
+[0m [90m 32 | [39m        { [36mthis[39m[33m.[39mstate[33m.[39mfoods[33m.[39mmap(food[33m=>[39m{[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 29:[22m  Parsing error: Expected corresponding JSX closing tag for <br>
+
+[0m [90m 27 | [39m            number of calories[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[0m
+[0m [90m 28 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"number of calories"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 29 | [39m            image[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[33m<[39m[33m/[39m[33minput[39m[33m>[39m[0m
+[0m [90m    | [39m                      [31m[1m^[22m[39m[0m
+[0m [90m 30 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"image"[39m[33m>[39m[0m
+[0m [90m 31 | [39m          [33m<[39m[33m/[39m[33mform[39m[33m>[39m[0m
+[0m [90m 32 | [39m          [0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 29:[22m  Parsing error: Expected corresponding JSX closing tag for <br>
+
+[0m [90m 27 | [39m            number of calories[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[0m
+[0m [90m 28 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"number of calories"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 29 | [39m            image[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[33m<[39m[33m/[39m[33minput[39m[33m>[39m[0m
+[0m [90m    | [39m                      [31m[1m^[22m[39m[0m
+[0m [90m 30 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"image"[39m[33m>[39m[0m
+[0m [90m 31 | [39m          [33m<[39m[33m/[39m[33mform[39m[33m>[39m[0m
+[0m [90m 32 | [39m    [0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 29:[22m  Parsing error: Expected corresponding JSX closing tag for <br>
+
+[0m [90m 27 | [39m            number of calories[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[0m
+[0m [90m 28 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"number of calories"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 29 | [39m            image[33m:[39m[33m<[39m[33mbr[39m[33m>[39m[33m<[39m[33m/[39m[33minput[39m[33m>[39m[0m
+[0m [90m    | [39m                      [31m[1m^[22m[39m[0m
+[0m [90m 30 | [39m            [33m<[39m[33minput[39m type[33m=[39m[32m"text"[39m name[33m=[39m[32m"image"[39m[33m>[39m[0m
+[0m [90m 31 | [39m          [33m<[39m[33m/[39m[33mform[39m[33m>[39m[0m
+[0m [90m 32 | [39m    [0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 20:[22m  Unexpected use of 'name'  [31m[4mno-restricted-globals[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 22:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+  [1mLine 22:[22m  'debuggers' is not defined                                             [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.js[27m
+  [1mLine 22:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+  [1mLine 22:[22m  'debuggers' is not defined                                             [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/App.js[27m
+  [1mLine 19:[22m  'foodsDisplayed' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+cd ..     z [2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/FoodBox.jsx[27m
+  [1mLine 2:[22m   'Component' is defined but never used                                                                      [33m[4mno-unused-vars[24m[39m
+  [1mLine 12:[22m  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  [33m[4mjsx-a11y/alt-text[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+^C[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ : [32minfo[0m [35mlifecycle[0m iron-nutrition@0.1.0~start: iron-nutrit[0m[K[K[?25hbash-3.2$ 
+bash-3.2$ ls
+App.css			components		index.js
+App.js			foods.json		logo.svg
+App.test.js		index.css		serviceWorker.js
+bash-3.2$ 
